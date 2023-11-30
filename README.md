@@ -22,6 +22,7 @@ Before you begin, ensure you have Rust and Cargo installed on your machine. If n
    git clone https://github.com/your-username/rust-todo-app.git
    ```
 2. Run the project using Cargo:
+
     ```sh
     cargo run
     ```
