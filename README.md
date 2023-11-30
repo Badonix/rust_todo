@@ -36,8 +36,9 @@ Before you begin, ensure you have Rust and Cargo installed on your machine. If n
 ## Build
 
 To build project simple run:
+
     ```sh
     cargo build
     ```
-
+and executable will be in `/target/debug/rs_list.exe`
 <img src="todo.png" />
