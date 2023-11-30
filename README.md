@@ -19,9 +19,15 @@ Before you begin, ensure you have Rust and Cargo installed on your machine. If n
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/rust-todo-app.git
+   git clone https://github.com/badonix/rust_todo.git
    ```
-2. Run the project using Cargo:
+
+2. Go in projects directory
+   ```sh
+   cd rust_todo
+   ```
+
+3. Run the project using Cargo:
 
     ```sh
     cargo run
